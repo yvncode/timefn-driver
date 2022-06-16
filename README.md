@@ -1,10 +1,6 @@
 # timefn server https://discord.gg/PagEaK6KAe
 
-using keyauth
-
-secret: cc914445fd32b95bb93b3153dc654c4a8d59d8b0ef07f4d032be7bc97e5d2b83 
-
-ver: 1.0
+keyaut hsecret: cc914445fd32b95bb93b3153dc654c4a8d59d8b0ef07f4d032be7bc97e5d2b83 
 
 アドレス=00007FF7016CFD72
 逆アセンブル=lea rcx,qword ptr ds:[7FF7016D8290]
